@@ -1,2 +1,2 @@
-# PrepCourse2-Henrys
-Esta es una prueba del PrepCourse de Henry
+Me llamo Selvin Quino  
+Este es una prueba de como guardar repositorios en la nube desde mi terminal.
